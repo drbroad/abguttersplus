@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Generate Press Child
+ Theme URI:    http://super9studios.com
+ Description:  Generate Press Child Theme
+ Author:       Sandy Connolly
+ Author URI:   http://super9studios.com
+ Template:     generatepress
+ Text Domain:  generate-press-child
+*/
+
+@import url('../generatepress/style.css');
+
+/* ---------------------------- C O L O R S ------------------------------------*/
+/*  USAFA Blue: 00528b
+ *  Orange Yellow: FAC228
+ *  Upsdell Red: B5132A
+ *  Persian Green: 17A398
+ *  Cambridge Blue: AFD0BF
+ * 
+
+* /
+
+
+/* --------------------------B E G I N  T E X T   S T Y L E S-------------------*/
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	font-family: source-sans-pro, sans-serif;";
+}
+
+h1 {
+	
+}
+
+a {
+	color: #FAC228;
+}
+
+table, th, td {
+  border: 0px;
+}
+/* --------------------------E N D  T E X T   S T Y L E S-------------------*/
+
+/* ---------------------- B E G I N  B O T T O M   B A R -------------------------*/
+
+.site-info {
+    color: #ffffff;
+    background-color: #00528b;
+}
+
+/* ---------------------- E  B O T T O M   B A R -------------------------*/
